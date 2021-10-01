@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/arc-tool/precache-manifest.a5813fd5d528f4475c87486d29e28401.js"
+  "/arc-tool/precache-manifest.31be59f1c44d09a8a987e4eb3ebc6cbd.js"
 );
 
 workbox.clientsClaim();
