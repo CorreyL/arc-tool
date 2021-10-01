@@ -1,0 +1,13 @@
+div.leya {
+  width: 300px;
+  background-color: grey;
+  color: white;
+}
+
+div.leya > div {
+  padding: 1em;
+}
+
+div.leya > div > a {
+  color: aqua;
+}
