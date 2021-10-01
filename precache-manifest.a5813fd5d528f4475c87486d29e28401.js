@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "80230d28a325f8708cd8",
+    "revision": "17c7f1deda04d0f97c52",
     "url": "/arc-tool/static/css/main.6375bf20.chunk.css"
   },
   {
-    "revision": "80230d28a325f8708cd8",
-    "url": "/arc-tool/static/js/main.80230d28.chunk.js"
+    "revision": "17c7f1deda04d0f97c52",
+    "url": "/arc-tool/static/js/main.17c7f1de.chunk.js"
   },
   {
     "revision": "3e6608081f82892de8c6",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/arc-tool/static/js/runtime~main.f4edb022.js"
   },
   {
-    "revision": "ab059e2e737e74a57f8c54819fc8f994",
+    "revision": "4527115e29aa7cda68b1b375914405f0",
     "url": "/arc-tool/index.html"
   }
 ];
