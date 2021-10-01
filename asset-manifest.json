@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.6375bf20.chunk.css",
-  "main.js": "/static/js/main.80230d28.chunk.js",
-  "main.js.map": "/static/js/main.80230d28.chunk.js.map",
-  "static/js/1.3e660808.chunk.js": "/static/js/1.3e660808.chunk.js",
-  "static/js/1.3e660808.chunk.js.map": "/static/js/1.3e660808.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.6375bf20.chunk.css.map": "/static/css/main.6375bf20.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.6623ec1c2b5a0c223acc28aafffaef99.js": "/precache-manifest.6623ec1c2b5a0c223acc28aafffaef99.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/arc-tool/static/css/main.6375bf20.chunk.css",
+  "main.js": "/arc-tool/static/js/main.80230d28.chunk.js",
+  "main.js.map": "/arc-tool/static/js/main.80230d28.chunk.js.map",
+  "static/js/1.3e660808.chunk.js": "/arc-tool/static/js/1.3e660808.chunk.js",
+  "static/js/1.3e660808.chunk.js.map": "/arc-tool/static/js/1.3e660808.chunk.js.map",
+  "runtime~main.js": "/arc-tool/static/js/runtime~main.f4edb022.js",
+  "runtime~main.js.map": "/arc-tool/static/js/runtime~main.f4edb022.js.map",
+  "static/css/main.6375bf20.chunk.css.map": "/arc-tool/static/css/main.6375bf20.chunk.css.map",
+  "index.html": "/arc-tool/index.html",
+  "precache-manifest.8156273ef6e5014f4d62177bf9e256fc.js": "/arc-tool/precache-manifest.8156273ef6e5014f4d62177bf9e256fc.js",
+  "service-worker.js": "/arc-tool/service-worker.js"
 }
